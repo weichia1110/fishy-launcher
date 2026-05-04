@@ -1,0 +1,12 @@
+{
+  "name": "fishy-launcher",
+  "version": "1.0.0",
+  "description": "Electron launcher for kirka.io",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
